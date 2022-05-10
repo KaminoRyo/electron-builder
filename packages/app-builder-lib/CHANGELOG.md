@@ -1,5 +1,11 @@
 # app-builder-lib
 
+## 23.0.10
+
+### Patch Changes
+
+- [#6827](https://github.com/electron-userland/electron-builder/pull/6827) [`fa72861f`](https://github.com/electron-userland/electron-builder/commit/fa72861f6cd2de97d191f1b2bbfddc6edf48ab6d) Thanks [@indutny-signal](https://github.com/indutny-signal)! - fix(nsis): change strings, add translations
+
 ## 23.0.9
 
 ### Patch Changes
